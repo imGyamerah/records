@@ -37,7 +37,3 @@
 ---
 
 > ⚠️ <b>Note:</b> The data in this repo has been collected from publicly available sources. If you believe there is a copyright infringement, please contact me.
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/istanbul.png" alt="Istanbul"/>
-</p>
